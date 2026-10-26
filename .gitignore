@@ -1,0 +1,8 @@
+results/
+raw_data/
+*.vcf.gz
+*.tsv.gz
+*.part
+.Rhistory
+.RData
+__pycache__/

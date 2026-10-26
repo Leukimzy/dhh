@@ -1,0 +1,25 @@
+method,category,count,source_percent,total
+HiFi-DeepVariant,Missing,115189,0.73%,15852702
+HiFi-DeepVariant,Low confidence,5624,0.04%,15852702
+HiFi-DeepVariant,Singleton,266732,1.68%,15852702
+HiFi-DeepVariant,Rare,5751998,36.28%,15852702
+HiFi-DeepVariant,Low frequency,3710513,23.41%,15852702
+HiFi-DeepVariant,Common,6002646,37.87%,15852702
+Dipcall,Missing,284673,1.78%,15957769
+Dipcall,Low confidence,4150,0.03%,15957769
+Dipcall,Singleton,266284,1.67%,15957769
+Dipcall,Rare,5719564,35.84%,15957769
+Dipcall,Low frequency,3696095,23.16%,15957769
+Dipcall,Common,5987003,37.52%,15957769
+MC,Missing,389302,2.42%,16089639
+MC,Low confidence,7975,0.05%,16089639
+MC,Singleton,272028,1.69%,16089639
+MC,Rare,5735852,35.65%,16089639
+MC,Low frequency,3697795,22.98%,16089639
+MC,Common,5986687,37.21%,16089639
+PGGB,Missing,326366,2.04%,16013489
+PGGB,Low confidence,5806,0.04%,16013489
+PGGB,Singleton,269238,1.68%,16013489
+PGGB,Rare,5730409,35.78%,16013489
+PGGB,Low frequency,3696649,23.08%,16013489
+PGGB,Common,5985021,37.37%,16013489
